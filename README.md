@@ -1,3 +1,5 @@
+![Alt text](http://oi68.tinypic.com/5txr8m.jpg "Screenshot")
+
 # Facebook-Video-Downloader Version 1.0.0
 ### Facebook Video Downloader (CLI) For Linux Systems Coded in PHP
 
